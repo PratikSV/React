@@ -127,4 +127,7 @@ header{
     .dropdown_menu{
         display: block;
     }
+    body{
+        background-image: url(backgroun_phone.jpg);
+    }
 }
