@@ -1,2 +1,1 @@
-# Assignment2<br>
-This is for PCS Assignment 2.
+# For Mongo DB and meanstack.
