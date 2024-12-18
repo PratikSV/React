@@ -1,1 +1,1 @@
-# For Mongo DB and meanstack.
+# For Reactjs.
