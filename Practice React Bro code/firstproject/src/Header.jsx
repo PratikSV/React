@@ -8,6 +8,7 @@ function Header() {
                 <ul><a href="#">Contact</a></ul>
                 <ul><a href="#">Services</a></ul>
             </nav>
+            <hr /><hr />
         </header>
     )
 }
