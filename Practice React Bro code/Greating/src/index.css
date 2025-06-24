@@ -1,0 +1,8 @@
+.login-greating {
+    background-color: green;
+    font-size: 2rem;
+}
+.guest-greating {
+    background-color: red;
+    font-size: 2rem;
+}
